@@ -1,0 +1,261 @@
+[
+  [
+      {
+      "name": "鲜肉类",
+      "number": 300,
+      "money": 5000
+  },
+  {
+    "name": "蔬菜类",
+    "number": 280,
+    "money": 3500
+},
+{
+    "name": "干货类",
+    "number": 100,
+    "money": 2000
+},
+{
+    "name": "水产类",
+    "number": 160,
+    "money": 1000
+},
+{
+    "name": "水果类",
+    "number": 250,
+    "money": 2600
+},
+{
+    "name": "熟食类",
+    "number": 300,
+    "money": 3000
+},
+{
+    "name": "禽蛋类",
+    "number": 400,
+    "money": 2000
+},
+{
+    "name": "粮米类",
+    "number": 200,
+    "money": 1500
+},
+{
+    "name": "调味品",
+    "number": 100,
+    "money": 900
+},
+{
+    "name": "豆制品",
+    "number": 200,
+    "money": 3000
+},
+{
+    "name": "速冻品",
+    "number": 180,
+    "money": 2100
+}
+],
+[
+    {
+        "name": "上午",
+        "number": 10,
+        "money": 100
+    },
+    {
+        "name": "下午",
+        "number": 20,
+        "money": 200
+    },
+    {
+        "name": "晚上",
+        "number": 15,
+        "money": 150
+    }
+],
+[
+    {
+        "name": "1号",
+        "number": 10,
+        "money": 100
+    },
+    {
+        "name": "2号",
+        "number": 20,
+        "money": 200
+    },
+    {
+        "name": "3号",
+        "number": 15,
+        "money": 150
+    },
+    {
+        "name": "4号",
+        "number": 16,
+        "money": 160
+    },
+    {
+        "name": "5号",
+        "number": 13,
+        "money": 130
+    }
+],
+[
+    {
+        "name": "1月",
+        "number": 10,
+        "money": 100
+    },
+    {
+        "name": "2月",
+        "number": 20,
+        "money": 200
+    },
+    {
+        "name": "3月",
+        "number": 15,
+        "money": 150
+    },
+    {
+        "name": "4月",
+        "number": 18,
+        "money": 180
+    }
+],
+
+[
+    {
+        "name": "上午",
+        "number": 9,
+        "money": 90
+    },
+    {
+        "name": "下午",
+        "number": 2,
+        "money": 210
+    },
+    {
+        "name": "晚上",
+        "number": 13,
+        "money": 130
+    }
+],
+[
+    {
+        "name": "1号",
+        "number": 13,
+        "money": 130
+    },
+    {
+        "name": "2号",
+        "number": 21,
+        "money": 210
+    },
+    {
+        "name": "3号",
+        "number": 13,
+        "money": 130
+    },
+    {
+        "name": "4号",
+        "number": 17,
+        "money": 170
+    },
+    {
+        "name": "5号",
+        "number": 15,
+        "money": 150
+    }
+],
+[
+    {
+        "name": "1月",
+        "number": 12,
+        "money": 120
+    },
+    {
+        "name": "2月",
+        "number": 22,
+        "money": 220
+    },
+    {
+        "name": "3月",
+        "number": 14,
+        "money": 140
+    },
+    {
+        "name": "4月",
+        "number": 19,
+        "money": 190
+    }
+],
+
+
+[
+    {
+        "name": "上午",
+        "number": 11,
+        "money": 110
+    },
+    {
+        "name": "下午",
+        "number": 21,
+        "money": 210
+    },
+    {
+        "name": "晚上",
+        "number": 16,
+        "money": 160
+    }
+],
+[
+    {
+        "name": "1号",
+        "number": 12,
+        "money": 120
+    },
+    {
+        "name": "2号",
+        "number": 21,
+        "money": 210
+    },
+    {
+        "name": "3号",
+        "number": 14,
+        "money": 140
+    },
+    {
+        "name": "4号",
+        "number": 17,
+        "money": 170
+    },
+    {
+        "name": "5号",
+        "number": 12,
+        "money": 120
+    }
+],
+[
+    {
+        "name": "1月",
+        "number": 13,
+        "money": 130
+    },
+    {
+        "name": "2月",
+        "number": 21,
+        "money": 210
+    },
+    {
+        "name": "3月",
+        "number": 13,
+        "money": 130
+    },
+    {
+        "name": "4月",
+        "number": 19,
+        "money": 190
+    }
+]
+  ]
+  
